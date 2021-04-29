@@ -176,6 +176,7 @@ input[type='submit'] {
 
 .login input[type='submit'] {
   background-color: #1dabb8;
+  text-align: center;
   border-radius: var(--loginInputBorderRadius);
   color: #fff;
   font-weight: 700;
